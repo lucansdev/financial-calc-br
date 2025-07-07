@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "financial-calc-br"
 version = "1.0.0"
 authors = [
-  { name="Lucas Andrade Nascimento", email="alucad79@gmail.com"}{name="Raul Cabral", email="raulcabralc@gmail.com"},
+  { name="Lucas Andrade Nascimento", email="alucad79@gmail.com"},{name="Raul Cabral", email="raulcabralc@gmail.com"},
 ]
 description = "Calculadora financeira brasileira com suporte a financiamentos, investimentos e cartão de crédito."
 readme = "README.md"
