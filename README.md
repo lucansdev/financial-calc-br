@@ -209,8 +209,8 @@ print(f"Montante final: {simulation.formatted.montante_liquido}")
   - **Formatação**: Valores em Real (R$) e períodos em português.
   - **IOF**: Cálculo automático para cartão de crédito.
 
-## Existe também está mesma biblioteca para o npm, caso tenha interesse segue o link abaixo:
-  -**npm**: (https://github.com/raulcabralc/financial-calc-br)
+## Existe também está mesma biblioteca para o npm 📦:
+  -**repositorio para utilizar no npm**: (https://github.com/raulcabralc/financial-calc-br)
 
 ## 📝 Licença
 
