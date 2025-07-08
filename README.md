@@ -1,7 +1,7 @@
 # Financial Calc BR 🇧🇷
 
 [![PyPI version](https://img.shields.io/pypi/v/financial-calc-br)](https://pypi.org/project/financial-calc-br/)
-[](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Uma calculadora financeira completa para o mercado brasileiro, incluindo cálculos de financiamentos (SAC e Price), investimentos (CDB, Tesouro Selic, Poupança) e cartão de crédito rotativo.
 
