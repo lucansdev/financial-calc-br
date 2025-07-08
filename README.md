@@ -211,7 +211,7 @@ print(f"Montante final: {simulation.formatted.montante_liquido}")
 
 ## 📝 Licença
 
-MIT © [Raul Cabral](https://github.com/raulcabralc)[Lucas Andrade](https://github.com/lucansdev)
+MIT © [Raul Cabral](https://github.com/raulcabralc) [Lucas Andrade](https://github.com/lucansdev)
 
 ## 🤝 Contribuindo
 
