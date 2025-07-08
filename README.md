@@ -1,9 +1,13 @@
 # Financial Calc BR 🇧🇷
 
-[](https://www.google.com/search?q=https://pypi.org/project/financial-calc-br/)
-[](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/pypi/v/financial-calc-br)](https://pypi.org/project/financial-calc-br/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Uma calculadora financeira completa para o mercado brasileiro, incluindo cálculos de financiamentos (SAC e Price), investimentos (CDB, Tesouro Selic, Poupança) e cartão de crédito rotativo.
+
+## Existe também este mesmo projeto para o npm 📦:
+[![npm version](https://img.shields.io/npm/v/financial-calc-br.svg)](https://www.npmjs.com/package/financial-calc-br)
+  - **repositorio para utilizar no npm**: https://github.com/raulcabralc/financial-calc-br
 
 ## 📦 Instalação
 
@@ -209,16 +213,13 @@ print(f"Montante final: {simulation.formatted.montante_liquido}")
   - **Formatação**: Valores em Real (R$) e períodos em português.
   - **IOF**: Cálculo automático para cartão de crédito.
 
-## Existe também está mesma biblioteca para o npm 📦:
-  - **repositorio para utilizar no npm**: https://github.com/raulcabralc/financial-calc-br
-
 ## 📝 Licença
 
 MIT © [Raul Cabral](https://github.com/raulcabralc) [Lucas Andrade](https://github.com/lucansdev)
 
 ## 🤝 Contribuindo
 
-Contribuições são bem-vindas\! Veja [CONTRIBUTING.md](https://www.google.com/search?q=CONTRIBUTING.md) para detalhes.
+Contribuições são bem-vindas! Veja [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes
 
 ## 🐛 Bugs e Sugestões
 
