@@ -211,7 +211,7 @@ print(f"Montante final: {simulation.formatted.montante_liquido}")
 
 ## 📝 Licença
 
-MIT © [Raul Cabral](https://github.com/raulcabralc)
+MIT © [Raul Cabral](https://github.com/raulcabralc)[Lucas Andrade](https://github.com/lucansdev)
 
 ## 🤝 Contribuindo
 
@@ -219,7 +219,7 @@ Contribuições são bem-vindas\! Veja [CONTRIBUTING.md](https://www.google.com/
 
 ## 🐛 Bugs e Sugestões
 
-Encontrou um bug ou tem uma sugestão? Abra uma [issue](https://github.com/raulcabralc/financial-calc-br/issues).
+Encontrou um bug ou tem uma sugestão? Abra uma [issue](https://github.com/lucansdev/financial-calc-br/issues).
 
 ## 📊 Roadmap
 
