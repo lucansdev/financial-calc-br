@@ -1,11 +1,11 @@
 # Financial Calc BR 🇧🇷
 
-[](https://www.google.com/search?q=https://pypi.org/project/financial-calc-br/)
+[![PyPI version](https://img.shields.io/pypi/v/financial-calc-br)](https://pypi.org/project/financial-calc-br/)
 [](https://opensource.org/licenses/MIT)
 
 Uma calculadora financeira completa para o mercado brasileiro, incluindo cálculos de financiamentos (SAC e Price), investimentos (CDB, Tesouro Selic, Poupança) e cartão de crédito rotativo.
 
-## Existe também está mesma biblioteca para o npm 📦:
+## Existe também este mesmo projeto para o npm 📦:
   - **repositorio para utilizar no npm**: https://github.com/raulcabralc/financial-calc-br
 
 ## 📦 Instalação
