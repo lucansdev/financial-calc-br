@@ -5,6 +5,9 @@
 
 Uma calculadora financeira completa para o mercado brasileiro, incluindo cálculos de financiamentos (SAC e Price), investimentos (CDB, Tesouro Selic, Poupança) e cartão de crédito rotativo.
 
+## Existe também está mesma biblioteca para o npm 📦:
+  - **repositorio para utilizar no npm**: https://github.com/raulcabralc/financial-calc-br
+
 ## 📦 Instalação
 
 ### pip
@@ -208,9 +211,6 @@ print(f"Montante final: {simulation.formatted.montante_liquido}")
   - **Regras da Poupança**: Aplicação automática das regras atuais.
   - **Formatação**: Valores em Real (R$) e períodos em português.
   - **IOF**: Cálculo automático para cartão de crédito.
-
-## Existe também está mesma biblioteca para o npm 📦:
-  - **repositorio para utilizar no npm**: https://github.com/raulcabralc/financial-calc-br
 
 ## 📝 Licença
 
