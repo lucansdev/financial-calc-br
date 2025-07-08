@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "financial-calc-br"
-version = "1.0.0"
+name = "financial_calc_br"
+version = "1.0.3"
 authors = [
   { name="Lucas Andrade Nascimento", email="alucad79@gmail.com"},{name="Raul Cabral", email="raulcabralc@gmail.com"},
 ]
@@ -24,3 +24,6 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/lucansdev/financial-calc-br"
 "Bug Tracker" = "https://github.com/lucansdev/financial-calc-br/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
