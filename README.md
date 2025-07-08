@@ -210,7 +210,7 @@ print(f"Montante final: {simulation.formatted.montante_liquido}")
   - **IOF**: Cálculo automático para cartão de crédito.
 
 ## Existe também está mesma biblioteca para o npm 📦:
-  - **repositorio para utilizar no npm**: (https://github.com/raulcabralc/financial-calc-br)
+  - **repositorio para utilizar no npm**: https://github.com/raulcabralc/financial-calc-br
 
 ## 📝 Licença
 
