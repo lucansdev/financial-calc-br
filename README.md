@@ -218,7 +218,7 @@ MIT © [Raul Cabral](https://github.com/raulcabralc) [Lucas Andrade](https://git
 
 ## 🤝 Contribuindo
 
-Contribuições são bem-vindas\! Veja [CONTRIBUTING.md]([https://github.com/lucansdev/financial-calc-br/blob/main/CONTRIBUTING.md]) para detalhes.
+Contribuições são bem-vindas! Veja [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes
 
 ## 🐛 Bugs e Sugestões
 
