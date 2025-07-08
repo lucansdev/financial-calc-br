@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Contribuindo para o Financial Calc BR 🇧🇷
 
 Obrigado por querer contribuir! Toda ajuda é bem-vinda para melhorar as ferramentas financeiras brasileiras.
