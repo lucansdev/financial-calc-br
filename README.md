@@ -6,6 +6,7 @@
 Uma calculadora financeira completa para o mercado brasileiro, incluindo cálculos de financiamentos (SAC e Price), investimentos (CDB, Tesouro Selic, Poupança) e cartão de crédito rotativo.
 
 ## Existe também este mesmo projeto para o npm 📦:
+[![npm version](https://img.shields.io/npm/v/financial-calc-br.svg)](https://www.npmjs.com/package/financial-calc-br)
   - **repositorio para utilizar no npm**: https://github.com/raulcabralc/financial-calc-br
 
 ## 📦 Instalação
