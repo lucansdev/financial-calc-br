@@ -4,7 +4,7 @@ class creditCardCalc:
     def __init__(self):
         ...
 
-    def calcRotativo(valorFatura:float,valorPago:float,taxaMensal:float =15):
+    def calcRotativo(self,valorFatura:float,valorPago:float,taxaMensal:float =15):
         if valorPago >= valorFatura:
             return {
                 "status":"fatura paga integralmente",

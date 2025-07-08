@@ -4,7 +4,7 @@ def formatMoney(valor:int):
 
 def parseMoney(valor:float | str) ->float|str:
     try:
-        if (valor == "number"):
+        if isinstance(valor,(float,int)):
             return valor
         return float(valor.replace(r"[R$\.\s]"),"").replace(",",".")
     except TypeError as e:
@@ -34,10 +34,10 @@ def calcIRRate(dias:int) ->float:
     
 
 def isValidNumber(valor=None) -> bool:
-    return isinstance(valor,int or float) and not math.isnan(valor) and math.isfinite(valor)
+    return isinstance(valor,(float,int)) and not math.isnan(valor) and math.isfinite(valor)
 
 
-def validateFinancialParams(valor:int,taxa:int,tempo:int):
+def validateFinancialParams(valor:float,taxa:float,tempo:float):
     errors:list[str] = []
 
     if not isValidNumber(valor) or valor <= 0:

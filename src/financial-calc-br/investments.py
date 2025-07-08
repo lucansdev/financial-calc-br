@@ -148,10 +148,9 @@ class InvestmentCalc:
             "rendimento":rendSelic,
             "rentabilidade":selic.get("rentabilidade")
         },
-        rendCDBs
         ]
 
-        melhorOpcao = max(todasOpcoes,key=lambda opcao:opcao["rendimento"])
+        melhorOpcao = max(todasOpcoes, key=lambda opcao: opcao["rendimento"])
 
 
         return {

@@ -53,9 +53,8 @@ class FinancingCalc:
                 "primeiraParcela":amortizacao + (valor * taxaMensal) / 100,
                 "ultimaParcela":amortizacao + (amortizacao * taxaMensal) / 100,
                 "resumo":{
-                    primeiros12,
-                    ultimos12
-                },
+                    "primeiros12":primeiros12,
+                    "ultimos12":ultimos12},
                 "formatted":{
                     "sistema":"SAC",
                     "valorFinanciado":formatMoney(valor),
@@ -119,8 +118,8 @@ class FinancingCalc:
             "totalPago":valor + totalJuros,
             "prestacaoFixa":prestacao,
             "resumo":{
-                primeiros12,
-                ultimos12
+                "primeiros12":primeiros12,
+                "ultimos12":ultimos12
             },
             "formatted":{
                 "sistema":"Price",
@@ -177,7 +176,7 @@ class FinancingCalc:
                 "economia":economia,
                 "economiaPercentual":economia / priceJuros,
                 "recomendacao": self.getRecomendation(
-                    sacJuros,priceJuros,parseMoney(sac.get("primeiraParcela"),parseMoney(price.get("prestacaoFixa")))
+                    sacJuros,priceJuros,parseMoney(sac.get("primeiraParcela")),parseMoney(price.get("prestacaoFixa"))
                 ),
 
                 "formatted":{
